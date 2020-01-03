@@ -1,0 +1,24 @@
+{
+  "name": "ReactAssignment",
+  "version": "1.0.0",
+  "description": "Webpack-babel-react-jsx-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hipak7/ReactAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hipak7/ReactAssignment/issues"
+  },
+  "homepage": "https://github.com/Hipak7/ReactAssignment#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7"
+  }
+}
