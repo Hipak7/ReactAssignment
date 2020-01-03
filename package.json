@@ -1,10 +1,11 @@
 {
-  "name": "ReactAssignment",
+  "name": "reactassignment",
   "version": "1.0.0",
   "description": "Webpack-babel-react-jsx-components",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx webpack --mode development --config webpack.config.js && npx webpack-dev-server",
+    "test": "TEst"
   },
   "repository": {
     "type": "git",
